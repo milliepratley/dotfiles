@@ -59,3 +59,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = millie.pratley@icloud.com
+	name = Millie Pratley
